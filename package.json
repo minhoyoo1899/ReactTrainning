@@ -1,0 +1,23 @@
+{
+  "name": "reacttrainning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhoyoo1899/ReactTrainning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhoyoo1899/ReactTrainning/issues"
+  },
+  "homepage": "https://github.com/minhoyoo1899/ReactTrainning#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "express": "^4.18.1"
+  }
+}
