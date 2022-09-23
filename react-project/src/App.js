@@ -11,6 +11,9 @@ import Counter02 from './Counter02';
 import Counter03 from './Counter03';
 import Say from './Say';
 import Say02 from './Say02';
+import EventPratice from './EventPratice';
+import EventPratice02 from './EventPratice02';
+import EventPratice03 from './EventPratice03';
 
 const app = () => {
   return ;
@@ -56,6 +59,11 @@ function App() {
 
       <Say />
       <Say02 />
+      
+
+      <EventPratice />
+      <EventPratice02 />
+      <EventPratice03 />
     </div>   
     
   );
