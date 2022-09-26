@@ -14,10 +14,22 @@ import Say02 from './Say02';
 import EventPratice from './EventPratice';
 import EventPratice02 from './EventPratice02';
 import EventPratice03 from './EventPratice03';
+import EventInput from './EventInput';
+import EventInput02 from './EventInput02';
+import EventMethod from './EventMethod';
+import EventMethodPropInitSyn from './EventMethodPropInitSyn';
 
-const app = () => {
-  return ;
-};
+
+
+
+
+
+
+
+
+// const app = () => {
+//   return ;
+// };
 
 
 function App() {
@@ -35,9 +47,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        > Learn React </a>
       </header>
 
       
@@ -64,6 +74,12 @@ function App() {
       <EventPratice />
       <EventPratice02 />
       <EventPratice03 />
+
+      <EventInput />
+      <EventInput02 />
+
+      <EventMethod />
+      <EventMethodPropInitSyn />
     </div>   
     
   );
