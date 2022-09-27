@@ -18,8 +18,10 @@ import EventInput from './EventInput';
 import EventInput02 from './EventInput02';
 import EventMethod from './EventMethod';
 import EventMethodPropInitSyn from './EventMethodPropInitSyn';
-
-
+import EventMultiInput from './EventMultiInput';
+import EventOnKeyPress from './EventOnKeyPress';
+import EventCompFunction from './EventCompFunction';
+import EventCompFunction02 from './EventCompFunction02';
 
 
 
@@ -69,7 +71,7 @@ function App() {
 
       <Say />
       <Say02 />
-      
+
 
       <EventPratice />
       <EventPratice02 />
@@ -80,7 +82,11 @@ function App() {
 
       <EventMethod />
       <EventMethodPropInitSyn />
-    </div>   
+      <EventMultiInput />
+      <EventOnKeyPress />
+      <EventCompFunction />
+      <EventCompFunction02 />
+    </div>
     
   );
 }
